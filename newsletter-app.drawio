@@ -46,10 +46,21 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sn20mlSqS-HbytY9ccLU-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sn20mlSqS-HbytY9ccLU-3" target="sn20mlSqS-HbytY9ccLU-11" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-180" y="670" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="sn20mlSqS-HbytY9ccLU-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sn20mlSqS-HbytY9ccLU-3" target="sn20mlSqS-HbytY9ccLU-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ho3KDSB0VRyxntUYbUB0-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sn20mlSqS-HbytY9ccLU-3" target="Ho3KDSB0VRyxntUYbUB0-35">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-180" y="770" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="sn20mlSqS-HbytY9ccLU-3" value="Database - Mongodb" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="-250" y="530" width="140" height="60" as="geometry" />
@@ -64,7 +75,7 @@
           <mxGeometry x="190" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sn20mlSqS-HbytY9ccLU-11" value="Emails - Read/Unread" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-30" y="650" width="120" height="60" as="geometry" />
+          <mxGeometry x="180" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sn20mlSqS-HbytY9ccLU-13" value="Filtering Options" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="190" y="530" width="120" height="60" as="geometry" />
@@ -87,12 +98,20 @@
         <mxCell id="Ho3KDSB0VRyxntUYbUB0-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sn20mlSqS-HbytY9ccLU-21" target="Ho3KDSB0VRyxntUYbUB0-25">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="530" y="680" />
+              <mxPoint x="680" y="680" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ho3KDSB0VRyxntUYbUB0-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sn20mlSqS-HbytY9ccLU-21" target="Ho3KDSB0VRyxntUYbUB0-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="710" />
+              <mxPoint x="555" y="710" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="sn20mlSqS-HbytY9ccLU-21" value="Notification Service" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=0;strokeWidth=3;" parent="1" vertex="1">
-          <mxGeometry x="470" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="620" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sn20mlSqS-HbytY9ccLU-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sn20mlSqS-HbytY9ccLU-23" target="sn20mlSqS-HbytY9ccLU-11" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -156,7 +175,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ho3KDSB0VRyxntUYbUB0-1" value="Sign In with Google" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-170" y="780" width="120" height="60" as="geometry" />
+          <mxGeometry x="-145" y="860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ho3KDSB0VRyxntUYbUB0-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ho3KDSB0VRyxntUYbUB0-2" target="Ho3KDSB0VRyxntUYbUB0-4">
           <mxGeometry relative="1" as="geometry" />
@@ -165,7 +184,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ho3KDSB0VRyxntUYbUB0-2" value="Connect to email providers" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="30" y="780" width="120" height="60" as="geometry" />
+          <mxGeometry x="55" y="860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ho3KDSB0VRyxntUYbUB0-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ho3KDSB0VRyxntUYbUB0-4" target="Ho3KDSB0VRyxntUYbUB0-6">
           <mxGeometry relative="1" as="geometry" />
@@ -174,40 +193,49 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ho3KDSB0VRyxntUYbUB0-4" value="Get latest mails" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="780" width="120" height="60" as="geometry" />
+          <mxGeometry x="255" y="860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ho3KDSB0VRyxntUYbUB0-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ho3KDSB0VRyxntUYbUB0-6" target="Ho3KDSB0VRyxntUYbUB0-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ho3KDSB0VRyxntUYbUB0-6" value="Set filtering options" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="430" y="780" width="120" height="60" as="geometry" />
+          <mxGeometry x="455" y="860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ho3KDSB0VRyxntUYbUB0-8" value="Import filtered mails to DB" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="880" width="120" height="60" as="geometry" />
+          <mxGeometry x="255" y="960" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ho3KDSB0VRyxntUYbUB0-10" value="Update to webhooks service" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="630" y="780" width="120" height="60" as="geometry" />
+          <mxGeometry x="655" y="860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ho3KDSB0VRyxntUYbUB0-19" value="Flow" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-280" y="795" width="60" height="30" as="geometry" />
+          <mxGeometry x="-255" y="875" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ho3KDSB0VRyxntUYbUB0-21" value="Refresh tokens if expired" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="680" y="430" width="120" height="60" as="geometry" />
+        <mxCell id="Ho3KDSB0VRyxntUYbUB0-21" value="Auto refresh tokens if expired" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="430" width="180" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ho3KDSB0VRyxntUYbUB0-23" value="Firebase Cloud Messaging (mobile)" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="670" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="900" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ho3KDSB0VRyxntUYbUB0-25" value="Web Push API for web" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=0;strokeWidth=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="650" width="120" height="60" as="geometry" />
+          <mxGeometry x="900" y="650" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ho3KDSB0VRyxntUYbUB0-27" value="Error handling" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="30" y="880" width="120" height="60" as="geometry" />
+        <mxCell id="Ho3KDSB0VRyxntUYbUB0-27" value="Error handling (OAuth token expiry, email provider connection issues)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="27.5" y="980" width="175" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Ho3KDSB0VRyxntUYbUB0-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ho3KDSB0VRyxntUYbUB0-29" target="sn20mlSqS-HbytY9ccLU-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ho3KDSB0VRyxntUYbUB0-29" value="Generic Email Provider Handler" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ho3KDSB0VRyxntUYbUB0-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ho3KDSB0VRyxntUYbUB0-33" target="Ho3KDSB0VRyxntUYbUB0-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ho3KDSB0VRyxntUYbUB0-33" value="Personalized notifications:&amp;nbsp;frequency, filtering specific senders, immediately or in batch" style="whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;rounded=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="730" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Ho3KDSB0VRyxntUYbUB0-35" value="Notification Config" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=0;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="740" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
