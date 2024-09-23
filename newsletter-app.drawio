@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.16">
   <diagram name="Trang-1" id="sZ26ORA3GB2YnHU4ORg-">
-    <mxGraphModel dx="2087" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2449" dy="1103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,7 +40,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sn20mlSqS-HbytY9ccLU-1" value="Mobile - React Native" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="350" y="50" width="150" height="60" as="geometry" />
+          <mxGeometry x="400" y="50" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sn20mlSqS-HbytY9ccLU-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="sn20mlSqS-HbytY9ccLU-3" target="sn20mlSqS-HbytY9ccLU-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -202,7 +202,7 @@
           <mxGeometry x="455" y="860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ho3KDSB0VRyxntUYbUB0-8" value="Import filtered mails to DB" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="255" y="960" width="120" height="60" as="geometry" />
+          <mxGeometry x="255" y="980" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ho3KDSB0VRyxntUYbUB0-10" value="Update to webhooks service" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="655" y="860" width="120" height="60" as="geometry" />
