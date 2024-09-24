@@ -195,7 +195,7 @@
         <mxCell id="Ho3KDSB0VRyxntUYbUB0-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ho3KDSB0VRyxntUYbUB0-4" target="Ho3KDSB0VRyxntUYbUB0-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ho3KDSB0VRyxntUYbUB0-4" value="Get latest mails" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="Ho3KDSB0VRyxntUYbUB0-4" value="Get latest mails: &lt;a href=&quot;https://developers.google.com/gmail/api/reference/rest/v1/users.messages/list&quot;&gt;Link&lt;/a&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="255" y="860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ho3KDSB0VRyxntUYbUB0-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Ho3KDSB0VRyxntUYbUB0-6" target="Ho3KDSB0VRyxntUYbUB0-10" edge="1">
@@ -207,7 +207,7 @@
         <mxCell id="Ho3KDSB0VRyxntUYbUB0-8" value="Import filtered mails to DB" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="255" y="980" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ho3KDSB0VRyxntUYbUB0-10" value="Update to webhooks service" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="Ho3KDSB0VRyxntUYbUB0-10" value="Update to webhooks service: &lt;a href=&quot;https://developers.google.com/gmail/api/reference/rest/v1/users/watch&quot;&gt;Link&lt;/a&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="655" y="860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ho3KDSB0VRyxntUYbUB0-19" value="Flow" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
