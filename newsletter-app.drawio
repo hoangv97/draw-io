@@ -249,6 +249,15 @@
         <mxCell id="SvRrcNwXcUUWf0sOA4Cr-3" value="Summarize by AI" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1010" y="260" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="SvRrcNwXcUUWf0sOA4Cr-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SvRrcNwXcUUWf0sOA4Cr-5" target="SvRrcNwXcUUWf0sOA4Cr-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SvRrcNwXcUUWf0sOA4Cr-5" value="Disconnect to email providers" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-145" y="1100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SvRrcNwXcUUWf0sOA4Cr-6" value="Stop setting webhooks" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1100" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
