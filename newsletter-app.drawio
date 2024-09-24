@@ -255,7 +255,7 @@
         <mxCell id="SvRrcNwXcUUWf0sOA4Cr-5" value="Disconnect to email providers" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-145" y="1100" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="SvRrcNwXcUUWf0sOA4Cr-6" value="Stop setting webhooks" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="SvRrcNwXcUUWf0sOA4Cr-6" value="Stop setting webhooks: &lt;a href=&quot;https://developers.google.com/gmail/api/reference/rest/v1/users/stop&quot;&gt;Link&lt;/a&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="1100" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
